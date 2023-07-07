@@ -31,3 +31,29 @@
         hsl(348, 83%, 47%)
     )!important;
 }
+
+
+/* width */
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #DC143C;
+	border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #91243a;
+}
+
+body{
+overflow-x: hidden;
+}
