@@ -17,7 +17,7 @@ const About = () => {
               <p className='text-[#8892b0]'>Hello. I'm Samuel Udoh, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p className='text-[#8892b0]'>I am Samuel Udoh, a professional and talented front-end developer. I'm passionate about leveraging my diverse skills to decipher challenging problems and create delightful experiences. I always work towards achieving best result on either personal or a client's project.</p>  
+              <p className='text-[#8892b0]'>I am Samuel Udoh, a professional and talented front-end developer. I'm passionate about leveraging my diverse skills to decipher challenging problems and create delightful experiences. I always work towards achieving the best result on either personal or a client's project.</p>  
             </div>
           </div>
       </div>

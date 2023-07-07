@@ -12,12 +12,12 @@ const Navbar = () => {
   return (
     <div className='fixed w-full z-10 h-[80px] flex justify-between items-center px-4 bg-[#0D1017] text-gray-300'>
       <div>
-      <motion.h1 className="text-4xl md:text-5xl font-signature font-medium text-[#DC143C] cursor-pointer" 
+      <a href="/"><motion.h1 className="text-4xl md:text-5xl font-signature font-medium text-[#DC143C] cursor-pointer" 
       initial={{y: -250}}
       animate={{y: 0}}
       transition={{delay: 0.5, type: 'spring', stiffness: 120}}>
           Samuel
-        </motion.h1>
+        </motion.h1></a>
       </div>
 
       {/* menu */}
