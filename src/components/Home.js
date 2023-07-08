@@ -60,7 +60,7 @@ const Home = () => {
             </a>
           </li>
           <li>
-            <a href='https://docs.google.com/document/d/16T-Q951zeqa7vt-G9mK-OCV6jlHaHbYFZQz8w1Rp5XA/edit?usp=sharing' target='blank'><BsFillPersonLinesFill size={26} className='hover:scale-125 duration-200'/>
+            <a href='https://drive.google.com/file/d/1sh6ABWaWlTe_KLtn71obxKQM5qyu9COc/view' target='blank'><BsFillPersonLinesFill size={26} className='hover:scale-125 duration-200'/>
             </a>
           </li>
         </motion.ul>
